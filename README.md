@@ -1,12 +1,13 @@
 # CIT 281 Labs and Projects
 
 - [Lab 1](https://github.com/lorenagarci/cit281/tree/main/p1/lab-01): Computer set-up along with introduction to the course.
-- [Lab 2](https://github.com/lorenagarci/cit281/p2/lab-02.git): Initial exposure to Git.
-- [Project 1](https://github.com/lorenagarci/cit281/p1.git): Gaining experience with the CLI.
-- [Lab 3](https://github.com/lorenagarci/cit281/p3.git): Practice with Node.js and refactoring/destructering.
-- [Project 2](https://github.com/lorenagarci/cit281/p2.git): Refactoring practice along with .gitignore.
-- [Lab 4](https://github.com/lorenagarci/cit281/p3/lab-04.git): Creating fastify Node.js webserver.
-- [Lab 5](https://github.com/lorenagarci/cit281/p4/lab-05.git): Postman Practice.
+- [Lab 2](https://github.com/lorenagarci/cit281/tree/main/p2/lab-02): Initial exposure to Git.
+- [Project 1](https://github.com/lorenagarci/cit281/tree/main/p1): Gaining experience with the CLI.
+- [Lab 3](https://github.com/lorenagarci/cit281/tree/main/p3): Practice with Node.js and refactoring/destructering.
+- [Project 2](https://github.com/lorenagarci/cit281/tree/main/p2): Refactoring practice along with .gitignore.
+- [Lab 4](https://github.com/lorenagarci/cit281/tree/main/p3/lab-04): Creating fastify Node.js webserver.
+- [Lab 5](https://github.com/lorenagarci/cit281/tree/main/p4/lab-05): Postman Practice.
+- 
 - [Project 3](https://github.com/lorenagarci/cit281/p3.git): Gaining experience using Fastify and Visual Code.
 - [Lab 6](https://github.com/lorenagarci/cit281/p5.git): Creating and testing classes.
 - [Project 4](https://github.com/lorenagarci/cit281/p4.git): Gaining experience using Fastify and its verbs along with Postman.
