@@ -1,6 +1,6 @@
 # CIT 281 Labs and Projects
 
-- [Lab 1](https://github.com/lorenagarci/cit281/tree/main/p1/lab-01): Computer set-up along with introduction to the course.
+- [Lab 1](https://lorenagarci.github.io/cit281-lab1/): Computer set-up along with introduction to the course.
 - [Lab 2](https://github.com/lorenagarci/cit281/tree/main/p2/lab-02): Initial exposure to Git.
 - [Project 1](https://github.com/lorenagarci/cit281/tree/main/p1): Gaining experience with the CLI.
 - [Lab 3](https://github.com/lorenagarci/cit281/tree/main/p3): Practice with Node.js and refactoring/destructering.
@@ -15,3 +15,5 @@
 - [Lab 8](https://github.com/lorenagarci/cit281/tree/main/p7): Installing, adding and fetching data with Fastify.
 - [Project 6](https://github.com/lorenagarci/cit281/tree/main/p6): Creating and working (three)classes.
 - [Lab 9](https://github.com/lorenagarci/cit281/tree/main/p7): Github repository and course practice.
+
+<img src="images/image1.jpg" alt="Image">
