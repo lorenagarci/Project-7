@@ -1,6 +1,6 @@
 # CIT 281 Labs and Projects
 
-- [Lab 1](https://github.com/lorenagarci/cit281/p1.git): Computer set-up along with introduction to the course.
+- [Lab 1](https://github.com/lorenagarci/cit281/tree/main/p1/lab-01): Computer set-up along with introduction to the course.
 - [Lab 2](https://github.com/lorenagarci/cit281/p2/lab-02.git): Initial exposure to Git.
 - [Project 1](https://github.com/lorenagarci/cit281/p1.git): Gaining experience with the CLI.
 - [Lab 3](https://github.com/lorenagarci/cit281/p3.git): Practice with Node.js and refactoring/destructering.
