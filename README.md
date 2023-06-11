@@ -16,4 +16,4 @@
 - [Project 6](https://github.com/lorenagarci/cit281/tree/main/p6): Creating and working (three)classes.
 - [Lab 9](https://github.com/lorenagarci/cit281/tree/main/p7): Github repository and course practice.
 
-<img src="imagegit.jpg" alt="Image">
+<div style="background-image: url('back.png'); background-position: center; background-size: cover; background-repeat: no-repeat;">
