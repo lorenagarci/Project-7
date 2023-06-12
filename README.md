@@ -13,7 +13,7 @@
 - [Lab 7](https://lorenagarci.github.io/cit281-lab7/): Creating first Github repository.
 - [Project 5](https://lorenagarci.github.io/cit281-project5/): Creating a monster game using new skills and methods.
 - [Lab 8](https://lorenagarci.github.io/cit281-lab8/): Installing, adding and fetching data with Fastify.
-- [Project 6](https://github.com/lorenagarci/cit281/tree/main/p6): Creating and working (three)classes.
+- [Project 6](https://lorenagarci.github.io/cit281-project6/): Creating and working (three)classes.
 - [Lab 9](https://github.com/lorenagarci/cit281/tree/main/p7): Github repository and course practice.
 
 <img src="back.png" alt="Image">
